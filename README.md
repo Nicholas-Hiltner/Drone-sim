@@ -36,16 +36,3 @@ This feature is not directly user interactable, but Drones in the simulation sho
 ### UML Diagram
 
 ![UML Diagram of HW4](UML.png)
-
-## Sprint Retrospective
-We organized three sprints, all lasting one week with the exception of the first sprint taking place fover two weeks.
-### What Worked
-- Nice overview of tasks to be done for the project
-- Tasks can be linked to other tasks
-- Assignment of tasks
-### What Did Not Work
-- We did not adhere to the sprints at all
-- Prioritization of tasks
-### What Could be Improved
-- Better allocation of tasks to each sprint (we got overambitious)
-- Our work ethic for this project
