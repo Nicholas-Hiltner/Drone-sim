@@ -1,0 +1,243 @@
+[
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "drone",
+      "name": "Drone",
+      "mesh": "assets/model/drone.glb",
+      "position": [498.292, 270, -228.623],
+      "scale": [0.1, 0.1, 0.1],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 1",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [428.292, 241, -178.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 2",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [478.292, 241, -698.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 3",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [-308.292, 244, -648.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 4",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [1158.292, 244, -478.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 5",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [-178.292, 213, 248.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 6",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [858.292, 235, 528.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 7",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [308.292, 233, 778.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 8",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [-928.292, 239, -8.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 9",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [-758.292, 246, 728.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "charger",
+      "name": "Recharge Station 10",
+      "mesh": "assets/model/GasPump_03.glb",
+      "position": [-1428.292, 239, 338.623],
+      "scale": [0.8, 0.8, 0.8],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 30.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, 0.6, 0]
+    }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "human",
+      "name": "Human-OG",
+      "mesh": "assets/model/human.glb",
+      "position": [498.292, 270, -228.623],
+      "scale": [0.005, 0.005, 0.005],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 10.0,
+      "radius": 1.0,
+      "start": 2.0,
+      "duration": 2.0,
+      "offset": [0, -0.5, 0]
+  }
+  },
+  {
+    "command": "CreateEntity",
+    "params": {
+      "type": "helicopter",
+      "name": "Helicopter",
+      "mesh": "assets/model/helicopter.glb",
+      "position": [498.292, 550, -228.623],
+      "scale": [0.025, 0.025, 0.025],
+      "rotation": [0, 0, 0, 0],
+      "direction": [1,0,0],
+      "speed": 50.0,
+      "offset": [0, 1.5, 0]
+    }
+  },
+  {
+    "command": "SetScene",
+    "params": {
+      "type": "scene",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "mesh": "assets/model/umn.obj",
+      "texture": "assets/texture/umn.png",
+      "position": [-1.5,-13,-1.5],
+      "scale": [0.05,0.05,0.05]
+    }
+  },
+  {
+    "command": "AddMesh",
+    "params": {
+      "type": "route",
+      "mesh": "assets/model/routes.obj",
+      "position": [-0.0,-12.5,-0.0],
+      "scale": [0.0705,0.05,0.0705],
+      "color": "0xff00e1"
+    }
+  }
+]
